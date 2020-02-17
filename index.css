@@ -1,6 +1,9 @@
-h1, P{
+h1{
     text-align: center;
     background-color: red;
+}
+p{
+    text-align: center;
 }
 body{
     background-color:blueviolet;
